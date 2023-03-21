@@ -1,0 +1,9 @@
+name: Add request
+description: Suggest adding a game to the list
+title: "<game name>"
+labels: "add request"
+body:
+  - type: textarea
+    attributes:
+      label: URL(s)
+      description: One URL per line.

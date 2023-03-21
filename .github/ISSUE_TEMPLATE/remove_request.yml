@@ -1,0 +1,8 @@
+name: Remove request
+description: Request removing an entry from the list
+title: "<game name>"
+labels: "remove request"
+body:
+  - type: textarea
+    attributes:
+      label: Reason(s) for removal
